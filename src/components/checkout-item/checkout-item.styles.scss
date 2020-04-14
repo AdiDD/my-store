@@ -23,7 +23,24 @@
   }
 
   .quantity {
-    padding-left: 20px;
+    display: flex;
+
+    .icon {
+      cursor: pointer;
+      width: 15px;
+
+      &.minus {
+        color: red;
+      }
+
+      &.plus {
+        color: green;
+      }
+    }
+
+    .value {
+      margin: 0 10px;
+    }
   }
 
   .remove-button {
