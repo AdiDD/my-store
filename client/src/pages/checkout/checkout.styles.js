@@ -6,7 +6,7 @@ export const CheckoutPageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 50px auto 0;
+  margin: 50px auto 50px;
   button {
     margin-left: auto;
     margin-top: 20px;
