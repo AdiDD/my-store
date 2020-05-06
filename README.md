@@ -1,1 +1,1 @@
-# Project under development
+## Project is live at https://adi-store.herokuapp.com/
